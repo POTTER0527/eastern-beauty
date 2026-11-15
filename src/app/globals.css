@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  --canvas: #EDEDE3;
+  --sage: #8b9b79;
+  --mist: #d5ee9d;
+  --sand: #bda98d;
+  --forest: #34443b;
+  --paper: #ffffff;
+}
+
+@theme inline {
+  --color-canvas: #EDEDE3;
+  --color-sage: #8b9b79;
+  --color-mist: #d5ee9d;
+  --color-sand: #bda98d;
+  --color-forest: #34443b;
+  --color-paper: #ffffff;
+  --font-sans: var(--font-inter), var(--font-noto-sans), "Noto Sans TC",
+    sans-serif;
+  --font-serif: var(--font-cormorant), var(--font-noto-serif),
+    "Noto Serif TC", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-canvas);
+  color: var(--color-forest);
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-mist) 70%, white);
+  color: var(--color-forest);
+}
+
+.editorial-title {
+  font-family: var(--font-serif);
+  letter-spacing: -0.03em;
+  line-height: 0.95;
+}
+
+.label {
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--color-sage);
+}
