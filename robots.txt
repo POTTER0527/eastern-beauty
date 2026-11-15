@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://potter0527.github.io/eastern-beauty/sitemap.xml

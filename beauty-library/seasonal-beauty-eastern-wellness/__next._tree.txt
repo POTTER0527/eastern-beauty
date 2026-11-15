@@ -1,0 +1,12 @@
+:HL["/eastern-beauty/_next/static/chunks/0a-ck_1jgmur9.css","style"]
+:HL["/eastern-beauty/_next/static/chunks/02u29v471jtdr.css","style"]
+:HL["/eastern-beauty/_next/static/chunks/1yt8tq9ll1n_k.css","style"]
+:HL["/eastern-beauty/_next/static/chunks/3o5si7dxm-u6_.css","style"]
+:HL["/eastern-beauty/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eastern-beauty/_next/static/media/4f6d27b94ac7f0f8-s.p.3aqr1xxws37ij.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eastern-beauty/_next/static/media/6f3ab718e3727c1a-s.p.3huc2loe0ie8a.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/eastern-beauty/_next/static/media/c85312908b950f41-s.p.2kxoktkbtnje5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"seasonal-beauty-eastern-wellness","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"beauty-library","h":64,"c":"$Q2"}]]
+0:{"b":"hlS3w3n2MHV82JvPCX34B","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

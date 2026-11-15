@@ -1,0 +1,7 @@
+:HL["/eastern-beauty/_next/static/chunks/0a-ck_1jgmur9.css","style"]
+:HL["/eastern-beauty/_next/static/chunks/02u29v471jtdr.css","style"]
+:HL["/eastern-beauty/_next/static/chunks/1yt8tq9ll1n_k.css","style"]
+:HL["/eastern-beauty/_next/static/chunks/3o5si7dxm-u6_.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"hlS3w3n2MHV82JvPCX34B","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

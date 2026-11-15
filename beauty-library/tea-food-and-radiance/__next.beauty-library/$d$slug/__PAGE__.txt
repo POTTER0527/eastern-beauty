@@ -1,0 +1,30 @@
+2:"$Sreact.fragment"
+3:"/eastern-beauty/_next/static/chunks/15u3szcfypdld.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"/eastern-beauty/_next/static/chunks/0kkvwmz6aheqo.js"
+d:I[5500,["$3","$c"],"Image"]
+e:I[22016,["$3","$c"],""]
+f:I[97367,["$3"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3"],"$15"]
+17:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","article",null,{"className":"pb-24","children":[["$","div",null,{"className":"mx-auto w-full px-5 sm:px-8 max-w-6xl max-w-3xl pt-12","children":[["$","p",null,{"className":"label","children":"Food & Wellness"}],["$","h1",null,{"className":"editorial-title mt-5 text-4xl sm:text-5xl","children":"Tea, Digestion, and Radiance: Food Culture in Eastern Wellness"}],["$","p",null,{"className":"mt-5 text-sm text-forest/55","children":["2026-08-28"," · ",6," min read ·"," ","Eastern Beauty"]}]]}],["$","div",null,{"className":"mx-auto w-full px-5 sm:px-8 max-w-6xl mt-10","children":["$","div",null,{"className":"relative overflow-hidden bg-sand/25 aspect-[16/9] w-full","children":["$","$Ld",null,{"src":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1600&q=80","alt":"新鮮植物與餐桌","fill":true,"priority":true,"sizes":"100vw","className":"object-cover object-center"}]}]}],["$","div",null,{"className":"mx-auto w-full px-5 sm:px-8 max-w-6xl max-w-3xl","children":[["$","div",null,{"className":"mt-12 space-y-6","children":[["$","p","0",{"className":"border border-sand/50 bg-paper px-5 py-4 text-sm leading-7 text-forest/70","children":"飲食與氣色的關係因人而異。以下內容屬於文化與生活討論，不是營養治療或食療處方。"}],["$","p","1",{"className":"text-base leading-8 text-forest/80","children":"一碗時令蔬菜、一次不被匆忙打斷的用餐、午後的一杯茶，都在塑造身體的節奏。東方飲食文化重視溫度、節制與當季食材，這與「吃得少而穩定」的現代觀點可以相遇。"}],["$","h2","2",{"className":"pt-4 font-serif text-3xl text-forest","children":"餐桌是日常養生現場"}],["$","p","3",{"className":"text-base leading-8 text-forest/80","children":"與其尋找神奇食材，不如先恢復規律進食、足夠水分，以及較少極端節食。皮膚會反映身體是否被善待，而善待往往很普通。"}]]}],["$","div",null,{"className":"mt-14 flex flex-wrap gap-3","children":[["$","$Le",null,{"href":"/beauty-library","className":"inline-flex min-h-11 items-center justify-center rounded-full px-6 py-3 text-sm tracking-[0.04em] transition-colors duration-300 border border-forest/20 bg-transparent text-forest hover:border-sage hover:bg-sage/10","children":"Back to Beauty Library"}],["$","$Le",null,{"href":"/eastern-beauty","className":"inline-flex min-h-11 items-center justify-center rounded-full px-6 py-3 text-sm tracking-[0.04em] transition-colors duration-300 px-0 text-forest underline-offset-4 hover:text-sage hover:underline","children":"Explore Eastern Beauty"}]]}]]}]]}],[["$","script","script-0",{"src":"/eastern-beauty/_next/static/chunks/0kkvwmz6aheqo.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"tea-food-and-radiance","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"beauty-library","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tea, Digestion, and Radiance: Food Culture in Eastern Wellness · Eastern Beauty"}],["$","meta","1",{"name":"description","content":"茶與時令食物在東方生活裡，既是味道，也是節奏。美容可以從餐桌開始理解。"}],["$","meta","2",{"name":"keywords","content":"Eastern Beauty,東方美容,東方養生,中醫美容文化,seasonal wellness,mindful living"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"property":"og:title","content":"Tea, Digestion, and Radiance: Food Culture in Eastern Wellness"}],["$","meta","5",{"property":"og:description","content":"茶與時令食物在東方生活裡，既是味道，也是節奏。美容可以從餐桌開始理解。"}],["$","meta","6",{"property":"og:image","content":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1600&q=80"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Eastern Beauty"}],["$","meta","9",{"name":"twitter:description","content":"A modern approach to beauty, inspired by Eastern wisdom and mindful living."}],["$","meta","10",{"name":"twitter:image","content":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1600&q=80"}],["$","link","11",{"rel":"icon","href":"/eastern-beauty/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","12",{"rel":"icon","href":"/eastern-beauty/icon.svg?icon.1y649esykwhh4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$8"}},"a":"$@19","u":"$@1a","b":"hlS3w3n2MHV82JvPCX34B"}
+11:null
+1a:true
+8:300
+8:C
+19:0
+a:"$undefined"
+6:"$undefined"
+18:"$undefined"
+12:"$undefined"
